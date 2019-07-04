@@ -1,0 +1,271 @@
+#date,time,tempC,tempF,windspeedMiles,windspeedKmph,winddirdegree,winddir16point,weatherCode,weatherIconUrl,weatherDesc,precipMM,precipInches,humidity,visibilityKm,visibilityMiles,pressureMB,pressureInches,cloudcover,HeatIndexC,HeatIndexF,DewPointC,DewPointF,WindChillC,WindChillF,WindGustMiles,WindGustKmph,FeelsLikeC,FeelsLikeF
+2018-06-01,39,103,30,87,05:47 AM,07:05 PM,09:26 PM,07:53 AM,Waning Gibbous,74
+2018-06-01,0,32,89,12,19,280,W,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0008_clear_sky_night.png,Clear,0.0,0.0,48,10,6,1005,30,6,34,93,19,67,32,89,15,24,34,93
+2018-06-01,300,30,87,7,12,218,SW,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0008_clear_sky_night.png,Clear,0.0,0.0,51,10,6,1006,30,10,32,90,19,67,30,87,10,15,32,90
+2018-06-01,600,33,91,9,14,270,W,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0001_sunny.png,Sunny,0.1,0.0,45,10,6,1007,30,5,35,95,19,66,33,91,10,16,35,95
+2018-06-01,900,37,98,7,11,268,W,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0001_sunny.png,Sunny,0.0,0.0,32,10,6,1007,30,10,39,102,17,63,37,98,8,12,39,102
+2018-06-01,1200,39,103,6,10,280,W,116,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png,Partly cloudy,0.1,0.0,25,10,6,1004,30,29,41,105,16,60,39,103,7,12,41,105
+2018-06-01,1500,39,102,12,19,326,NNW,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0001_sunny.png,Sunny,0.0,0.0,21,10,6,1001,30,5,39,102,13,55,39,102,14,22,39,102
+2018-06-01,1800,37,99,11,17,336,NNW,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0001_sunny.png,Sunny,0.0,0.0,21,10,6,1003,30,3,36,97,11,53,37,99,12,20,36,97
+2018-06-01,2100,34,93,10,17,299,WNW,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0008_clear_sky_night.png,Clear,0.0,0.0,33,10,6,1005,30,2,35,94,16,60,34,93,13,21,35,94
+2018-06-02,38,101,30,87,05:47 AM,07:05 PM,10:12 PM,08:42 AM,Waning Gibbous,67
+2018-06-02,0,32,90,8,13,271,W,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0008_clear_sky_night.png,Clear,0.0,0.0,38,10,6,1005,30,4,32,90,16,60,32,90,11,17,32,90
+2018-06-02,300,30,87,9,14,300,WNW,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0008_clear_sky_night.png,Clear,0.0,0.0,39,10,6,1005,30,4,31,87,15,59,31,87,12,20,31,87
+2018-06-02,600,33,92,12,19,292,WNW,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0001_sunny.png,Sunny,0.0,0.0,33,10,6,1006,30,2,33,92,15,59,33,92,14,22,33,92
+2018-06-02,900,36,96,11,17,306,NW,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0001_sunny.png,Sunny,0.0,0.0,32,10,6,1007,30,6,37,98,16,62,36,96,12,20,37,98
+2018-06-02,1200,38,101,8,13,324,NW,116,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png,Partly cloudy,0.0,0.0,25,10,6,1004,30,27,39,102,15,59,38,101,9,15,39,102
+2018-06-02,1500,38,100,2,3,156,SSE,116,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png,Partly cloudy,0.0,0.0,25,10,6,1002,30,32,38,100,14,58,38,100,2,3,38,100
+2018-06-02,1800,36,96,8,13,212,SSW,356,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0010_heavy_rain_showers.png,Moderate or heavy rain shower,2.9,0.1,30,7,4,1004,30,27,36,98,16,60,36,96,13,20,36,98
+2018-06-02,2100,33,91,7,11,222,SW,116,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png,Partly cloudy,0.0,0.0,39,10,6,1006,30,55,34,92,17,62,33,91,9,14,34,92
+2018-06-03,35,96,29,85,05:47 AM,07:05 PM,10:56 PM,09:32 AM,Waning Gibbous,59
+2018-06-03,0,32,89,5,8,276,W,356,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0026_heavy_rain_showers_night.png,Moderate or heavy rain shower,3.8,0.1,44,7,4,1005,30,45,33,92,18,65,32,89,8,13,33,92
+2018-06-03,300,29,85,13,20,338,NNW,116,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png,Partly cloudy,0.0,0.0,58,10,6,1006,30,29,32,89,20,68,29,85,16,26,32,89
+2018-06-03,600,29,85,14,23,306,NW,119,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0003_white_cloud.png,Cloudy,0.0,0.0,61,10,6,1006,30,69,32,90,21,70,29,85,17,27,32,90
+2018-06-03,900,31,88,13,21,307,NW,200,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0016_thundery_showers.png,Thundery outbreaks possible,0.0,0.0,56,9,5,1005,30,55,35,94,21,71,31,88,15,24,35,94
+2018-06-03,1200,35,95,10,17,310,NW,200,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0016_thundery_showers.png,Thundery outbreaks possible,0.0,0.0,40,9,5,1003,30,45,38,100,19,67,35,95,12,19,38,100
+2018-06-03,1500,35,96,10,17,322,NW,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0001_sunny.png,Sunny,0.0,0.0,38,10,6,1001,30,15,38,101,19,66,36,96,12,19,38,101
+2018-06-03,1800,34,94,8,12,279,W,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0001_sunny.png,Sunny,0.0,0.0,40,10,6,1002,30,6,37,98,19,66,34,94,10,17,37,98
+2018-06-03,2100,31,88,15,23,266,W,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0008_clear_sky_night.png,Clear,0.0,0.0,50,10,6,1003,30,4,34,93,20,67,31,89,19,31,34,93
+2018-06-04,39,102,29,84,05:47 AM,07:06 PM,11:38 PM,10:22 AM,Waning Gibbous,52
+2018-06-04,0,30,86,12,19,284,WNW,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0008_clear_sky_night.png,Clear,0.0,0.0,52,10,6,1003,30,3,32,89,19,67,30,86,16,26,32,89
+2018-06-04,300,29,84,11,17,311,NW,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0008_clear_sky_night.png,Clear,0.0,0.0,57,10,6,1004,30,3,30,87,19,67,29,84,14,23,30,87
+2018-06-04,600,31,88,15,24,303,WNW,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0001_sunny.png,Sunny,0.0,0.0,51,10,6,1004,30,2,33,92,20,67,31,88,17,28,33,92
+2018-06-04,900,36,97,13,20,307,NW,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0001_sunny.png,Sunny,0.0,0.0,34,10,6,1003,30,4,39,101,18,64,36,97,14,23,39,101
+2018-06-04,1200,39,102,12,19,331,NNW,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0001_sunny.png,Sunny,0.0,0.0,25,10,6,1001,30,10,40,104,15,59,39,102,13,22,40,104
+2018-06-04,1500,37,99,10,17,329,NNW,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0001_sunny.png,Sunny,0.0,0.0,29,10,6,1000,30,11,39,102,16,62,38,100,12,19,39,102
+2018-06-04,1800,36,97,7,12,306,NW,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0001_sunny.png,Sunny,0.0,0.0,30,10,6,1000,30,17,37,99,16,61,36,97,10,15,37,99
+2018-06-04,2100,34,94,6,10,297,WNW,200,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0032_thundery_showers_night.png,Thundery outbreaks possible,0.0,0.0,38,9,5,1002,30,33,36,97,18,64,34,94,8,13,36,97
+2018-06-05,38,101,29,85,05:47 AM,07:06 PM,No moonrise,11:13 AM,Last Quarter,44
+2018-06-05,0,33,91,10,16,313,NW,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0008_clear_sky_night.png,Clear,0.0,0.0,42,10,6,1001,30,6,35,94,18,65,33,91,14,22,35,94
+2018-06-05,300,29,85,11,17,302,WNW,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0008_clear_sky_night.png,Clear,0.0,0.0,57,10,6,1004,30,5,32,89,20,68,29,85,14,22,32,89
+2018-06-05,600,32,89,12,19,300,WNW,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0001_sunny.png,Sunny,0.0,0.0,48,10,6,1005,30,5,34,93,20,67,32,89,14,22,34,93
+2018-06-05,900,35,94,15,25,306,NW,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0001_sunny.png,Sunny,0.0,0.0,43,10,6,1005,30,6,38,101,20,69,35,94,18,29,38,101
+2018-06-05,1200,38,101,12,19,319,NW,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0001_sunny.png,Sunny,0.0,0.0,29,10,6,1002,30,6,40,105,17,63,38,101,13,22,40,105
+2018-06-05,1500,38,100,11,18,321,NW,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0001_sunny.png,Sunny,0.0,0.0,27,10,6,1000,30,13,39,102,16,60,38,100,13,21,39,102
+2018-06-05,1800,37,99,9,14,287,WNW,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0001_sunny.png,Sunny,0.0,0.0,28,10,6,1001,30,11,38,100,15,60,37,99,11,18,38,100
+2018-06-05,2100,35,95,11,18,294,WNW,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0008_clear_sky_night.png,Clear,0.0,0.0,34,10,6,1004,30,11,36,97,17,62,35,95,15,24,36,97
+2018-06-06,38,101,30,86,05:47 AM,07:06 PM,12:17 AM,12:03 PM,Last Quarter,36
+2018-06-06,0,33,91,13,22,311,NW,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0008_clear_sky_night.png,Clear,0.0,0.0,43,10,6,1003,30,13,35,94,19,66,33,91,17,28,35,94
+2018-06-06,300,30,86,14,23,313,NW,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0008_clear_sky_night.png,Clear,0.0,0.0,55,10,6,1005,30,22,32,90,20,68,30,86,19,30,32,90
+2018-06-06,600,32,89,14,22,304,NW,176,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0009_light_rain_showers.png,Patchy rain possible,0.2,0.0,50,9,5,1006,30,16,35,94,20,68,32,89,16,26,35,94
+2018-06-06,900,35,95,16,26,308,NW,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0001_sunny.png,Sunny,0.0,0.0,40,10,6,1006,30,8,38,101,19,67,35,95,19,30,38,101
+2018-06-06,1200,38,101,15,23,323,NW,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0001_sunny.png,Sunny,0.0,0.0,30,10,6,1003,30,8,41,105,18,64,38,101,17,27,41,105
+2018-06-06,1500,37,98,12,20,308,NW,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0001_sunny.png,Sunny,0.0,0.0,36,10,6,1002,30,17,40,103,19,66,37,98,14,23,40,103
+2018-06-06,1800,36,97,9,14,283,WNW,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0001_sunny.png,Sunny,0.0,0.0,34,10,6,1003,30,11,39,102,18,65,36,97,11,17,39,102
+2018-06-06,2100,34,93,15,23,268,W,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0008_clear_sky_night.png,Clear,0.0,0.0,41,10,6,1004,30,10,36,96,18,65,34,92,18,29,36,96
+2018-06-07,36,97,29,84,05:47 AM,07:07 PM,12:56 AM,12:54 PM,Last Quarter,29
+2018-06-07,0,32,90,15,24,282,WNW,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0008_clear_sky_night.png,Clear,0.0,0.0,44,10,6,1003,30,8,34,93,18,65,32,90,18,29,34,93
+2018-06-07,300,29,84,11,18,268,W,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0008_clear_sky_night.png,Clear,0.0,0.0,58,10,6,1004,30,17,31,87,20,67,29,84,14,22,31,87
+2018-06-07,600,30,86,14,23,295,WNW,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0001_sunny.png,Sunny,0.0,0.0,58,10,6,1004,30,13,33,91,21,70,30,86,16,26,33,91
+2018-06-07,900,32,89,18,30,295,WNW,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0001_sunny.png,Sunny,0.0,0.0,57,10,6,1004,30,15,36,96,22,72,32,89,21,34,36,96
+2018-06-07,1200,36,97,16,25,312,NW,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0001_sunny.png,Sunny,0.0,0.0,41,10,6,1001,30,10,40,104,20,69,36,97,18,29,40,104
+2018-06-07,1500,35,94,13,21,287,WNW,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0001_sunny.png,Sunny,0.0,0.0,47,10,6,1000,30,12,39,103,22,71,35,94,15,24,39,103
+2018-06-07,1800,34,93,15,24,276,W,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0001_sunny.png,Sunny,0.0,0.0,44,10,6,1001,30,15,37,99,20,68,34,93,17,28,37,99
+2018-06-07,2100,32,90,14,22,270,W,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0008_clear_sky_night.png,Clear,0.0,0.0,43,10,6,1003,30,10,34,93,18,65,32,90,17,28,34,93
+2018-06-08,36,96,29,84,05:47 AM,07:07 PM,01:34 AM,01:46 PM,Last Quarter,21
+2018-06-08,0,30,86,12,19,270,W,176,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0025_light_rain_showers_night.png,Patchy rain possible,1.1,0.0,53,9,5,1001,30,13,32,90,20,67,30,87,16,25,32,90
+2018-06-08,300,29,84,10,15,289,WNW,119,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png,Cloudy,0.0,0.0,62,10,6,1002,30,66,31,89,21,70,29,84,12,19,31,89
+2018-06-08,600,29,84,11,17,292,WNW,353,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0009_light_rain_showers.png,Light rain shower,1.8,0.1,64,10,6,1003,30,73,32,89,21,71,29,84,16,25,32,89
+2018-06-08,900,31,88,11,17,267,W,116,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png,Partly cloudy,0.0,0.0,53,10,6,1003,30,26,34,93,20,69,31,88,12,19,34,93
+2018-06-08,1200,35,95,11,17,265,W,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0001_sunny.png,Sunny,0.1,0.0,39,10,6,999,30,12,38,100,19,66,35,95,12,20,38,100
+2018-06-08,1500,36,96,11,17,272,W,116,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png,Partly cloudy,0.0,0.0,37,10,6,997,30,26,38,101,19,66,36,96,12,20,38,101
+2018-06-08,1800,34,93,13,21,254,WSW,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0001_sunny.png,Sunny,0.0,0.0,44,10,6,998,30,23,37,98,20,67,34,93,17,27,37,98
+2018-06-08,2100,31,89,15,24,272,W,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0008_clear_sky_night.png,Clear,0.0,0.0,50,10,6,1000,30,10,34,93,20,68,31,89,19,31,34,93
+2018-06-09,37,99,28,82,05:47 AM,07:08 PM,02:12 AM,02:40 PM,Waning Crescent,14
+2018-06-09,0,30,85,15,24,284,WNW,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0008_clear_sky_night.png,Clear,0.0,0.0,55,10,6,998,30,8,32,89,20,67,30,85,19,31,32,89
+2018-06-09,300,28,82,13,21,292,WNW,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0008_clear_sky_night.png,Clear,0.0,0.0,62,10,6,1000,30,19,30,86,20,68,28,82,16,26,30,86
+2018-06-09,600,29,84,14,23,285,WNW,353,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0009_light_rain_showers.png,Light rain shower,1.3,0.1,61,10,6,1001,30,44,31,88,20,69,29,84,19,31,31,88
+2018-06-09,900,34,93,12,19,286,WNW,116,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png,Partly cloudy,0.0,0.0,42,10,6,1000,30,29,36,97,19,66,34,93,13,22,36,97
+2018-06-09,1200,37,99,15,24,281,W,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0001_sunny.png,Sunny,0.0,0.0,33,10,6,997,30,21,40,103,18,65,37,99,17,27,40,103
+2018-06-09,1500,35,95,17,27,286,WNW,116,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png,Partly cloudy,0.0,0.0,40,10,6,996,30,47,38,100,19,66,35,95,19,31,38,100
+2018-06-09,1800,33,92,19,30,278,W,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0001_sunny.png,Sunny,0.0,0.0,44,10,6,997,30,21,36,96,19,67,33,92,22,36,36,96
+2018-06-09,2100,30,86,19,30,272,W,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0008_clear_sky_night.png,Clear,0.0,0.0,58,10,6,1000,30,11,33,91,21,69,30,86,23,37,33,91
+2018-06-10,36,97,29,84,05:47 AM,07:08 PM,02:52 AM,03:36 PM,Waning Crescent,6
+2018-06-10,0,29,84,18,30,273,W,116,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png,Partly cloudy,0.0,0.0,63,10,6,999,30,40,31,88,21,70,29,84,23,37,31,88
+2018-06-10,300,29,84,12,20,279,W,122,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png,Overcast,0.0,0.0,65,10,6,1000,30,92,31,89,21,70,29,84,15,25,31,89
+2018-06-10,600,30,85,14,23,281,WNW,176,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0009_light_rain_showers.png,Patchy rain possible,0.7,0.0,61,9,5,1002,30,46,33,91,21,70,30,85,18,29,33,91
+2018-06-10,900,34,94,15,24,283,WNW,116,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png,Partly cloudy,0.0,0.0,42,10,6,1001,30,33,38,100,20,68,35,94,17,28,38,100
+2018-06-10,1200,36,97,17,27,282,WNW,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0001_sunny.png,Sunny,0.0,0.0,37,10,6,999,30,20,39,103,19,67,36,97,19,31,39,103
+2018-06-10,1500,35,95,14,23,281,W,116,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png,Partly cloudy,0.0,0.0,40,10,6,997,30,46,38,101,20,67,35,95,16,26,38,101
+2018-06-10,1800,32,90,23,37,265,W,176,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0009_light_rain_showers.png,Patchy rain possible,1.0,0.0,51,9,5,999,30,31,36,96,21,70,32,90,30,49,36,96
+2018-06-10,2100,29,85,17,27,274,W,116,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png,Partly cloudy,0.0,0.0,62,10,6,1001,30,49,32,90,21,70,29,85,21,34,32,90
+2018-06-11,34,94,28,82,05:47 AM,07:08 PM,03:35 AM,04:35 PM,New Moon,0
+2018-06-11,0,28,83,18,28,263,W,116,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png,Partly cloudy,0.0,0.0,64,10,6,1001,30,28,31,87,21,70,28,83,22,35,31,87
+2018-06-11,300,28,82,17,28,269,W,116,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png,Partly cloudy,0.0,0.0,69,10,6,1001,30,39,30,86,21,70,28,82,22,35,30,86
+2018-06-11,600,30,86,20,32,276,W,116,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png,Partly cloudy,0.0,0.0,60,10,6,1001,30,42,33,91,21,70,30,86,23,36,33,91
+2018-06-11,900,34,94,15,24,288,WNW,116,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png,Partly cloudy,0.0,0.0,42,10,6,1001,30,36,37,99,20,67,34,94,17,28,37,99
+2018-06-11,1200,34,94,15,24,291,WNW,116,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png,Partly cloudy,0.1,0.0,42,10,6,1000,30,46,38,100,20,68,35,94,17,28,38,100
+2018-06-11,1500,33,92,14,23,272,W,119,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0003_white_cloud.png,Cloudy,0.0,0.0,45,10,6,998,30,80,36,97,20,68,33,92,17,28,36,97
+2018-06-11,1800,32,89,22,36,279,W,176,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0009_light_rain_showers.png,Patchy rain possible,1.4,0.1,50,9,5,999,30,26,34,94,20,68,32,89,27,44,34,94
+2018-06-11,2100,29,84,21,33,269,W,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0008_clear_sky_night.png,Clear,0.0,0.0,62,10,6,1002,30,23,31,88,21,69,29,84,26,41,31,88
+2018-06-12,37,99,28,82,05:47 AM,07:09 PM,04:21 AM,05:38 PM,New Moon,0
+2018-06-12,0,28,82,20,32,270,W,353,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0025_light_rain_showers_night.png,Light rain shower,0.4,0.0,66,10,6,1001,30,50,30,86,21,69,28,82,26,42,30,86
+2018-06-12,300,28,82,17,27,277,W,119,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png,Cloudy,0.0,0.0,65,10,6,1001,30,79,30,85,20,69,28,82,22,35,30,85
+2018-06-12,600,29,85,20,33,277,W,116,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png,Partly cloudy,0.0,0.0,59,10,6,1002,30,28,32,89,20,69,29,85,23,38,32,89
+2018-06-12,900,33,91,17,28,282,WNW,116,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png,Partly cloudy,0.0,0.0,46,10,6,1002,30,32,35,96,20,67,33,91,20,32,35,96
+2018-06-12,1200,37,99,18,30,282,WNW,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0001_sunny.png,Sunny,0.0,0.0,33,10,6,999,30,10,40,104,18,65,37,99,21,34,40,104
+2018-06-12,1500,37,98,18,28,282,WNW,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0001_sunny.png,Sunny,0.0,0.0,33,10,6,998,30,10,39,102,18,64,37,98,20,33,39,102
+2018-06-12,1800,32,90,21,35,269,W,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0001_sunny.png,Sunny,0.0,0.0,47,10,6,1000,30,17,35,95,20,68,33,91,25,41,35,95
+2018-06-12,2100,30,86,16,26,270,W,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0008_clear_sky_night.png,Clear,0.0,0.0,55,10,6,1003,30,9,32,90,20,68,30,86,19,30,32,90
+2018-06-13,38,101,27,80,05:47 AM,07:09 PM,05:14 AM,06:42 PM,New Moon,0
+2018-06-13,0,28,82,18,30,270,W,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0008_clear_sky_night.png,Clear,0.0,0.0,64,10,6,1002,30,0,30,86,21,69,28,82,24,38,30,86
+2018-06-13,300,27,80,17,28,271,W,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0008_clear_sky_night.png,Clear,0.0,0.0,69,10,6,1002,30,6,29,84,21,69,27,80,22,36,29,84
+2018-06-13,600,29,84,19,31,271,W,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0001_sunny.png,Sunny,0.0,0.0,58,10,6,1003,30,0,31,88,20,68,29,85,22,35,31,88
+2018-06-13,900,35,95,17,27,284,WNW,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0001_sunny.png,Sunny,0.0,0.0,36,10,6,1002,30,13,37,99,18,64,35,95,19,31,37,99
+2018-06-13,1200,38,101,17,27,284,WNW,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0001_sunny.png,Sunny,0.0,0.0,28,10,6,1000,30,5,40,103,16,61,38,101,19,31,40,103
+2018-06-13,1500,36,98,18,30,273,W,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0001_sunny.png,Sunny,0.0,0.0,34,10,6,1000,30,12,39,102,18,64,37,98,21,34,39,102
+2018-06-13,1800,32,90,19,30,261,W,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0001_sunny.png,Sunny,0.0,0.0,49,10,6,1002,30,13,35,95,20,69,32,90,23,37,35,95
+2018-06-13,2100,30,86,14,22,266,W,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0008_clear_sky_night.png,Clear,0.0,0.0,55,10,6,1004,30,0,32,90,20,68,30,86,17,28,32,90
+2018-06-14,38,100,27,81,05:48 AM,07:09 PM,06:10 AM,07:47 PM,Waxing Crescent,1
+2018-06-14,0,28,83,15,24,268,W,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0008_clear_sky_night.png,Clear,0.0,0.0,62,10,6,1004,30,0,31,87,20,69,29,83,19,30,31,87
+2018-06-14,300,27,81,15,24,271,W,116,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png,Partly cloudy,0.0,0.0,66,10,6,1004,30,35,29,84,20,69,27,81,19,30,29,84
+2018-06-14,600,29,85,17,28,271,W,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0001_sunny.png,Sunny,0.0,0.0,57,10,6,1005,30,5,31,88,20,68,29,85,20,32,31,88
+2018-06-14,900,35,95,17,28,279,W,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0001_sunny.png,Sunny,0.0,0.0,34,10,6,1004,30,14,37,98,17,63,35,95,20,32,37,98
+2018-06-14,1200,38,100,18,30,283,WNW,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0001_sunny.png,Sunny,0.0,0.0,24,10,6,1002,30,5,38,101,14,57,38,100,21,34,38,101
+2018-06-14,1500,36,97,18,29,279,W,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0001_sunny.png,Sunny,0.0,0.0,29,10,6,1001,30,5,37,98,15,59,36,97,21,34,37,98
+2018-06-14,1800,33,92,17,27,270,W,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0001_sunny.png,Sunny,0.0,0.0,40,10,6,1003,30,9,35,95,18,64,33,92,21,33,35,95
+2018-06-14,2100,30,87,14,22,264,W,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0008_clear_sky_night.png,Clear,0.0,0.0,52,10,6,1005,30,4,32,90,19,67,30,87,17,27,32,90
+2018-06-15,36,98,27,81,05:48 AM,07:09 PM,07:12 AM,08:49 PM,Waxing Crescent,9
+2018-06-15,0,29,84,13,21,262,W,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0008_clear_sky_night.png,Clear,0.0,0.0,59,10,6,1004,30,2,31,87,20,68,29,83,17,27,31,87
+2018-06-15,300,27,81,13,20,264,W,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0008_clear_sky_night.png,Clear,0.0,0.0,65,10,6,1004,30,0,29,84,20,68,27,81,16,26,29,84
+2018-06-15,600,29,85,15,24,263,W,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0001_sunny.png,Sunny,0.0,0.0,56,10,6,1005,30,3,31,88,20,67,29,85,17,28,31,88
+2018-06-15,900,35,96,14,23,270,W,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0001_sunny.png,Sunny,0.0,0.0,34,10,6,1005,30,19,37,99,17,63,35,96,16,26,37,99
+2018-06-15,1200,36,98,15,23,270,W,116,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png,Partly cloudy,0.0,0.0,30,10,6,1003,30,45,38,100,16,61,36,98,17,27,38,100
+2018-06-15,1500,36,96,13,20,268,W,116,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png,Partly cloudy,0.0,0.0,31,10,6,1002,30,45,37,98,16,61,36,96,14,23,37,98
+2018-06-15,1800,34,93,16,26,268,W,116,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png,Partly cloudy,0.1,0.0,37,10,6,1004,30,41,35,95,17,62,34,93,19,31,35,95
+2018-06-15,2100,30,87,16,25,271,W,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0008_clear_sky_night.png,Clear,0.0,0.0,50,10,6,1006,30,11,32,89,19,65,30,87,20,32,32,89
+2018-06-16,37,99,27,80,05:48 AM,07:10 PM,08:16 AM,09:48 PM,Waxing Crescent,16
+2018-06-16,0,28,82,16,26,267,W,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0008_clear_sky_night.png,Clear,0.0,0.0,58,10,6,1005,30,4,30,85,19,66,28,82,21,33,30,85
+2018-06-16,300,27,80,13,21,264,W,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0008_clear_sky_night.png,Clear,0.0,0.0,62,10,6,1006,30,2,28,83,19,66,27,80,16,26,28,83
+2018-06-16,600,29,85,15,25,263,W,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0001_sunny.png,Sunny,0.0,0.0,52,10,6,1007,30,3,31,87,18,65,29,85,18,29,31,87
+2018-06-16,900,35,95,16,25,266,W,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0001_sunny.png,Sunny,0.0,0.0,33,10,6,1007,30,12,36,97,16,61,35,95,18,29,36,97
+2018-06-16,1200,37,99,16,26,265,W,116,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png,Partly cloudy,0.0,0.0,26,10,6,1004,30,40,38,100,14,58,37,99,18,29,38,100
+2018-06-16,1500,35,95,15,24,270,W,119,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0003_white_cloud.png,Cloudy,0.0,0.0,31,10,6,1003,30,81,36,96,16,60,35,95,17,28,36,96
+2018-06-16,1800,33,92,18,28,266,W,116,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png,Partly cloudy,0.0,0.0,37,10,6,1005,30,30,34,93,16,61,33,92,21,34,34,93
+2018-06-16,2100,30,85,14,23,259,W,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0008_clear_sky_night.png,Clear,0.0,0.0,48,10,6,1006,30,6,31,87,18,64,30,85,18,29,31,87
+2018-06-17,34,92,27,80,05:48 AM,07:10 PM,09:21 AM,10:42 PM,Waxing Crescent,24
+2018-06-17,0,28,83,14,22,257,WSW,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0008_clear_sky_night.png,Clear,0.0,0.0,54,10,6,1006,30,6,29,85,18,64,28,83,18,28,29,85
+2018-06-17,300,27,80,14,22,255,WSW,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0008_clear_sky_night.png,Clear,0.0,0.0,61,10,6,1006,30,13,28,83,19,66,27,80,17,28,28,83
+2018-06-17,600,29,84,15,24,252,WSW,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0001_sunny.png,Sunny,0.0,0.0,54,10,6,1007,30,15,30,87,19,66,29,84,17,27,30,87
+2018-06-17,900,34,92,14,23,263,W,116,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png,Partly cloudy,0.0,0.0,38,10,6,1006,30,26,35,95,17,63,34,92,16,26,35,95
+2018-06-17,1200,34,92,13,21,263,W,116,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png,Partly cloudy,0.0,0.0,37,10,6,1004,30,46,35,94,17,63,34,92,15,24,35,94
+2018-06-17,1500,33,92,10,16,281,WNW,116,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png,Partly cloudy,0.0,0.0,39,10,6,1002,30,61,34,94,17,63,33,92,12,20,34,94
+2018-06-17,1800,32,90,10,16,267,W,353,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0009_light_rain_showers.png,Light rain shower,0.5,0.0,42,10,6,1004,30,61,34,93,18,64,32,90,12,20,34,93
+2018-06-17,2100,29,85,15,24,258,WSW,116,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png,Partly cloudy,0.0,0.0,53,10,6,1005,30,28,31,88,19,66,29,85,19,30,31,88
+2018-06-18,37,98,27,81,05:48 AM,07:10 PM,10:24 AM,11:31 PM,Waxing Crescent,31
+2018-06-18,0,28,82,13,21,261,W,116,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png,Partly cloudy,0.0,0.0,60,10,6,1004,30,28,29,85,19,67,28,82,17,27,29,85
+2018-06-18,300,27,81,6,9,254,WSW,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0008_clear_sky_night.png,Clear,0.0,0.0,60,10,6,1004,30,12,29,84,19,66,27,81,8,12,29,84
+2018-06-18,600,30,86,10,16,268,W,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0001_sunny.png,Sunny,0.0,0.0,51,10,6,1005,30,14,31,89,19,65,30,86,11,18,31,89
+2018-06-18,900,33,92,9,14,289,WNW,116,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png,Partly cloudy,0.0,0.0,40,10,6,1005,30,27,35,95,18,64,33,92,10,16,35,95
+2018-06-18,1200,35,96,7,12,299,WNW,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0001_sunny.png,Sunny,0.0,0.0,32,10,6,1002,30,8,36,98,16,61,35,96,8,13,36,98
+2018-06-18,1500,37,98,9,14,335,NNW,116,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png,Partly cloudy,0.0,0.0,25,10,6,1001,30,29,36,98,13,56,37,98,10,17,36,98
+2018-06-18,1800,35,96,11,17,345,NNW,116,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png,Partly cloudy,0.0,0.0,28,10,6,1002,30,26,35,96,14,58,35,96,13,21,35,96
+2018-06-18,2100,32,90,12,19,301,WNW,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0008_clear_sky_night.png,Clear,0.0,0.0,45,10,6,1004,30,14,34,93,19,66,32,90,16,25,34,93
+2018-06-19,37,98,28,83,05:48 AM,07:11 PM,11:25 AM,No moonset,Waxing Crescent,39
+2018-06-19,0,30,85,14,22,285,WNW,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0008_clear_sky_night.png,Clear,0.4,0.0,58,10,6,1003,30,9,32,90,21,69,30,85,17,28,32,90
+2018-06-19,300,28,83,9,14,280,W,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0008_clear_sky_night.png,Clear,0.0,0.0,64,10,6,1004,30,11,31,87,21,70,28,83,11,18,31,87
+2018-06-19,600,30,86,10,16,306,NW,356,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0010_heavy_rain_showers.png,Moderate or heavy rain shower,5.6,0.2,58,7,4,1005,30,19,33,91,21,70,30,86,19,31,33,91
+2018-06-19,900,34,93,9,15,332,NNW,116,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png,Partly cloudy,0.0,0.0,44,10,6,1004,30,31,37,98,20,68,34,92,11,17,37,98
+2018-06-19,1200,37,98,9,15,335,NNW,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0001_sunny.png,Sunny,0.0,0.0,33,10,6,1002,30,19,39,102,18,64,37,98,11,17,39,102
+2018-06-19,1500,36,96,9,15,328,NNW,116,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png,Partly cloudy,0.0,0.0,36,10,6,1001,30,45,38,101,18,65,36,96,11,17,38,101
+2018-06-19,1800,35,94,10,17,316,NW,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0001_sunny.png,Sunny,0.0,0.0,39,10,6,1002,30,18,37,99,19,66,35,94,13,21,37,99
+2018-06-19,2100,32,89,15,24,319,NW,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0008_clear_sky_night.png,Clear,0.0,0.0,49,10,6,1004,30,7,34,94,20,67,32,89,19,31,34,94
+2018-06-20,36,97,29,84,05:48 AM,07:11 PM,12:22 PM,12:15 AM,First Quarter,46
+2018-06-20,0,30,86,7,12,320,NW,176,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0025_light_rain_showers_night.png,Patchy rain possible,1.0,0.0,53,9,5,1004,30,11,32,90,20,67,30,86,10,15,32,90
+2018-06-20,300,29,84,8,13,320,NW,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0008_clear_sky_night.png,Clear,0.0,0.0,58,10,6,1004,30,17,31,87,20,67,29,84,10,16,31,87
+2018-06-20,600,29,85,11,18,323,NW,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0001_sunny.png,Sunny,0.1,0.0,58,10,6,1005,30,15,32,89,20,69,29,85,13,21,32,89
+2018-06-20,900,33,91,10,16,322,NW,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0001_sunny.png,Sunny,0.0,0.0,49,10,6,1005,30,13,36,97,21,69,33,91,12,19,36,97
+2018-06-20,1200,36,97,7,12,343,NNW,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0001_sunny.png,Sunny,0.0,0.0,37,10,6,1002,30,17,39,102,19,66,36,97,9,14,39,102
+2018-06-20,1500,35,96,6,10,356,N,119,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0003_white_cloud.png,Cloudy,0.0,0.0,39,10,6,1001,30,71,38,101,19,67,35,96,7,12,38,101
+2018-06-20,1800,35,95,8,12,7,N,116,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png,Partly cloudy,0.0,0.0,40,10,6,1002,30,37,38,100,19,66,35,95,10,16,38,100
+2018-06-20,2100,32,89,1,1,233,SW,116,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png,Partly cloudy,0.0,0.0,52,10,6,1004,30,49,35,94,21,69,32,89,1,1,35,94
+2018-06-21,34,93,25,77,05:49 AM,07:11 PM,01:18 PM,12:56 AM,First Quarter,54
+2018-06-21,0,27,81,13,21,226,SW,359,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0034_cloudy_with_heavy_rain_night.png,Torrential rain shower,19.0,0.7,71,3,1,1004,30,56,30,86,22,71,28,82,28,44,30,86
+2018-06-21,300,25,77,13,21,242,WSW,119,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png,Cloudy,0.0,0.0,83,10,6,1004,30,69,27,81,22,71,25,77,17,28,27,81
+2018-06-21,600,26,79,6,9,253,WSW,299,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0010_heavy_rain_showers.png,Moderate rain at times,5.6,0.2,75,8,4,1005,30,47,29,84,22,71,26,80,8,13,29,84
+2018-06-21,900,32,90,11,17,308,NW,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0001_sunny.png,Sunny,0.0,0.0,48,10,6,1004,30,22,35,95,20,68,32,90,12,20,35,95
+2018-06-21,1200,34,93,7,11,295,WNW,116,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png,Partly cloudy,0.0,0.0,43,10,6,1003,30,39,36,98,19,67,34,93,8,12,36,98
+2018-06-21,1500,34,92,4,6,223,SW,116,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png,Partly cloudy,0.0,0.0,46,10,6,1001,30,45,37,98,20,68,34,92,4,7,37,98
+2018-06-21,1800,32,90,6,10,248,WSW,176,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0009_light_rain_showers.png,Patchy rain possible,0.2,0.0,51,9,5,1002,30,36,36,96,21,70,32,90,8,13,36,96
+2018-06-21,2100,27,80,14,23,289,WNW,116,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png,Partly cloudy,0.0,0.0,75,10,6,1004,30,36,29,85,22,71,27,80,17,27,29,85
+2018-06-22,32,90,26,78,05:49 AM,07:11 PM,02:11 PM,01:36 AM,First Quarter,61
+2018-06-22,0,26,79,13,20,291,WNW,176,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0025_light_rain_showers_night.png,Patchy rain possible,0.2,0.0,80,9,5,1004,30,34,29,83,22,72,26,79,16,25,29,83
+2018-06-22,300,26,78,11,18,293,WNW,116,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png,Partly cloudy,0.0,0.0,81,10,6,1004,30,36,28,82,22,72,26,78,15,24,28,82
+2018-06-22,600,27,80,8,12,297,WNW,356,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0010_heavy_rain_showers.png,Moderate or heavy rain shower,2.6,0.1,73,7,4,1005,30,55,29,85,22,71,27,80,12,19,29,85
+2018-06-22,900,29,84,9,14,307,NW,116,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png,Partly cloudy,0.0,0.0,65,10,6,1005,30,60,32,89,21,71,29,84,10,16,32,89
+2018-06-22,1200,32,89,8,13,317,NW,119,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0003_white_cloud.png,Cloudy,0.0,0.0,53,10,6,1003,30,75,35,95,21,70,32,89,9,15,35,95
+2018-06-22,1500,32,90,8,12,327,NNW,116,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png,Partly cloudy,0.0,0.0,51,10,6,1002,30,50,36,96,21,70,32,90,9,15,36,96
+2018-06-22,1800,30,87,5,8,303,WNW,176,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0009_light_rain_showers.png,Patchy rain possible,0.5,0.0,61,9,5,1002,30,30,34,93,22,71,30,87,9,14,34,93
+2018-06-22,2100,29,83,8,13,291,WNW,116,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png,Partly cloudy,0.0,0.0,66,10,6,1004,30,43,31,89,22,71,29,83,11,18,31,89
+2018-06-23,33,92,26,79,05:49 AM,07:11 PM,03:04 PM,02:15 AM,Waxing Gibbous,69
+2018-06-23,0,27,81,9,14,300,WNW,116,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png,Partly cloudy,0.0,0.0,70,10,6,1003,30,46,30,85,21,70,27,81,12,20,30,85
+2018-06-23,300,26,79,8,13,303,WNW,122,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png,Overcast,0.0,0.0,75,10,6,1004,30,90,28,83,21,70,26,79,11,17,28,83
+2018-06-23,600,28,82,9,15,306,NW,116,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png,Partly cloudy,0.0,0.0,69,10,6,1004,30,29,30,86,22,71,28,82,11,17,30,86
+2018-06-23,900,31,88,9,14,293,WNW,119,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0003_white_cloud.png,Cloudy,0.0,0.0,52,10,6,1004,30,71,34,93,20,69,31,88,10,16,34,93
+2018-06-23,1200,33,92,7,12,281,WNW,176,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0009_light_rain_showers.png,Patchy rain possible,0.3,0.0,45,9,5,1003,30,45,36,97,20,67,33,92,8,14,36,97
+2018-06-23,1500,32,90,5,8,264,W,116,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png,Partly cloudy,0.0,0.0,51,10,6,1001,30,49,35,95,21,69,32,90,6,9,35,95
+2018-06-23,1800,29,85,8,13,241,WSW,356,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0010_heavy_rain_showers.png,Moderate or heavy rain shower,6.9,0.3,64,7,4,1003,30,50,33,91,22,71,29,85,16,25,33,91
+2018-06-23,2100,27,81,10,16,262,W,116,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png,Partly cloudy,0.0,0.0,72,10,6,1004,30,36,30,86,22,71,27,81,14,23,30,86
+2018-06-24,31,88,25,77,05:49 AM,07:12 PM,03:57 PM,02:54 AM,Waxing Gibbous,77
+2018-06-24,0,26,79,11,18,262,W,356,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0026_heavy_rain_showers_night.png,Moderate or heavy rain shower,5.0,0.2,76,7,4,1003,30,30,29,84,22,71,26,79,21,33,29,84
+2018-06-24,300,25,77,9,14,271,W,116,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png,Partly cloudy,0.0,0.0,80,10,6,1003,30,38,27,81,21,70,25,77,12,19,27,81
+2018-06-24,600,27,80,9,14,291,WNW,119,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0003_white_cloud.png,Cloudy,0.0,0.0,72,10,6,1005,30,65,29,84,21,70,27,80,10,17,29,84
+2018-06-24,900,29,84,8,13,263,W,119,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0003_white_cloud.png,Cloudy,0.0,0.0,62,10,6,1004,30,87,31,89,21,70,29,84,9,15,31,89
+2018-06-24,1200,31,88,10,16,236,SW,353,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0009_light_rain_showers.png,Light rain shower,1.1,0.0,53,10,6,1002,30,63,34,94,21,69,31,89,13,22,34,94
+2018-06-24,1500,30,86,13,21,238,WSW,119,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0003_white_cloud.png,Cloudy,0.0,0.0,61,10,6,1001,30,64,33,91,21,71,30,86,15,24,33,91
+2018-06-24,1800,28,82,14,23,244,WSW,353,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0009_light_rain_showers.png,Light rain shower,1.6,0.1,68,10,6,1003,30,86,30,87,21,70,28,82,20,32,30,87
+2018-06-24,2100,27,80,10,16,249,WSW,116,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png,Partly cloudy,0.0,0.0,74,10,6,1004,30,40,29,84,22,71,27,80,13,21,29,84
+2018-06-25,30,86,25,76,05:50 AM,07:12 PM,04:49 PM,03:35 AM,Waxing Gibbous,84
+2018-06-25,0,26,79,12,19,255,WSW,353,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0025_light_rain_showers_night.png,Light rain shower,0.6,0.0,77,10,6,1003,30,78,28,83,22,71,26,79,16,26,28,83
+2018-06-25,300,25,78,10,15,261,W,122,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png,Overcast,0.0,0.0,80,10,6,1002,30,94,28,82,22,71,26,78,13,21,28,82
+2018-06-25,600,27,80,13,21,250,WSW,356,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0010_heavy_rain_showers.png,Moderate or heavy rain shower,3.2,0.1,74,7,4,1003,30,94,29,85,22,71,27,80,22,35,29,85
+2018-06-25,900,30,85,13,21,255,WSW,116,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png,Partly cloudy,0.0,0.0,64,10,6,1002,30,57,33,91,22,72,30,85,15,24,33,91
+2018-06-25,1200,30,86,15,24,261,W,359,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0018_cloudy_with_heavy_rain.png,Torrential rain shower,9.9,0.4,62,3,1,1000,30,87,34,93,22,72,30,86,32,51,34,93
+2018-06-25,1500,27,80,19,31,262,W,122,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png,Overcast,0.0,0.0,75,10,6,1000,30,92,29,85,22,71,27,80,25,40,29,85
+2018-06-25,1800,25,77,19,30,262,W,302,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0018_cloudy_with_heavy_rain.png,Moderate rain,7.4,0.3,80,7,4,1001,30,94,27,81,21,70,25,77,30,48,27,81
+2018-06-25,2100,25,76,14,22,264,W,119,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png,Cloudy,0.0,0.0,77,10,6,1003,30,63,26,80,20,68,25,76,19,31,26,80
+2018-06-26,31,89,25,76,05:50 AM,07:12 PM,05:41 PM,04:17 AM,Waxing Gibbous,92
+2018-06-26,0,25,77,13,21,266,W,263,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0025_light_rain_showers_night.png,Patchy light drizzle,0.5,0.0,76,5,3,1002,30,49,27,80,20,68,25,77,18,30,27,80
+2018-06-26,300,25,76,12,19,251,WSW,122,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png,Overcast,0.0,0.0,78,10,6,1002,30,92,27,80,21,69,25,76,18,28,27,80
+2018-06-26,600,27,80,17,28,257,WSW,116,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png,Partly cloudy,0.0,0.0,70,10,6,1002,30,57,29,84,21,70,27,80,20,32,29,84
+2018-06-26,900,30,86,16,26,267,W,119,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0003_white_cloud.png,Cloudy,0.0,0.0,57,10,6,1002,30,77,33,91,21,69,30,86,19,30,33,91
+2018-06-26,1200,31,89,17,28,271,W,353,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0009_light_rain_showers.png,Light rain shower,2.0,0.1,52,10,6,1000,30,46,34,94,20,69,32,89,26,42,34,94
+2018-06-26,1500,30,86,16,26,263,W,116,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png,Partly cloudy,0.0,0.0,56,10,6,1000,30,45,32,90,20,69,30,86,19,31,32,90
+2018-06-26,1800,27,81,14,22,256,WSW,356,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0010_heavy_rain_showers.png,Moderate or heavy rain shower,4.9,0.2,71,7,4,1001,30,73,30,86,21,71,27,81,25,40,30,86
+2018-06-26,2100,26,79,13,21,253,WSW,116,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png,Partly cloudy,0.0,0.0,75,10,6,1002,30,59,28,83,21,70,26,79,16,26,28,83
+2018-06-27,31,88,25,77,05:50 AM,07:12 PM,06:32 PM,05:02 AM,Full Moon,99
+2018-06-27,0,26,78,12,19,249,WSW,353,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0025_light_rain_showers_night.png,Light rain shower,0.5,0.0,77,10,6,1001,30,67,28,82,21,70,26,78,16,26,28,82
+2018-06-27,300,25,77,10,17,249,WSW,122,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png,Overcast,0.0,0.0,79,10,6,1000,30,91,27,81,21,70,25,77,14,23,27,81
+2018-06-27,600,27,81,17,27,261,W,116,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png,Partly cloudy,0.1,0.0,68,10,6,1001,30,44,30,85,21,70,27,81,20,32,30,85
+2018-06-27,900,31,88,15,24,265,W,116,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png,Partly cloudy,0.0,0.0,54,10,6,1001,30,49,34,92,20,69,31,88,17,27,34,92
+2018-06-27,1200,31,88,13,20,268,W,356,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0010_heavy_rain_showers.png,Moderate or heavy rain shower,4.3,0.2,55,7,4,1000,30,45,34,93,21,69,31,87,22,36,34,93
+2018-06-27,1500,28,83,9,15,263,W,119,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0003_white_cloud.png,Cloudy,0.0,0.0,67,10,6,1000,30,70,31,88,22,71,28,83,12,20,31,88
+2018-06-27,1800,27,81,7,11,254,WSW,356,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0010_heavy_rain_showers.png,Moderate or heavy rain shower,3.8,0.1,73,7,4,1001,30,58,30,86,22,72,27,81,12,19,30,86
+2018-06-27,2100,26,80,10,16,270,W,116,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png,Partly cloudy,0.0,0.0,74,10,6,1002,30,57,29,84,22,71,27,80,14,23,29,84
+2018-06-28,31,88,25,77,05:50 AM,07:12 PM,07:21 PM,05:49 AM,Full Moon,100
+2018-06-28,0,25,78,10,15,264,W,353,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0025_light_rain_showers_night.png,Light rain shower,0.5,0.0,78,10,6,1001,30,52,28,82,21,71,26,78,13,20,28,82
+2018-06-28,300,25,77,10,16,262,W,116,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png,Partly cloudy,0.0,0.0,79,10,6,1001,30,62,27,80,21,70,25,77,14,23,27,80
+2018-06-28,600,26,79,13,21,268,W,116,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png,Partly cloudy,0.0,0.0,73,10,6,1002,30,57,28,83,21,70,26,79,16,25,28,83
+2018-06-28,900,29,85,14,22,268,W,116,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png,Partly cloudy,0.0,0.0,62,10,6,1002,30,56,32,90,21,70,29,85,16,26,32,90
+2018-06-28,1200,31,88,12,20,273,W,353,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0009_light_rain_showers.png,Light rain shower,0.8,0.0,55,10,6,1001,30,49,34,93,21,69,31,88,17,28,34,93
+2018-06-28,1500,29,85,9,15,259,W,116,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png,Partly cloudy,0.0,0.0,59,10,6,1000,30,41,32,89,21,69,29,85,11,18,32,89
+2018-06-28,1800,27,81,7,12,249,WSW,356,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0010_heavy_rain_showers.png,Moderate or heavy rain shower,3.2,0.1,70,7,4,1002,30,45,30,85,21,70,27,81,14,22,30,85
+2018-06-28,2100,26,79,7,11,254,WSW,116,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png,Partly cloudy,0.0,0.0,74,10,6,1003,30,46,28,83,21,70,26,79,10,16,28,83
+2018-06-29,32,90,25,76,05:51 AM,07:12 PM,08:09 PM,06:37 AM,Waxing Gibbous,86
+2018-06-29,0,25,78,9,14,237,WSW,116,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png,Partly cloudy,0.0,0.0,74,10,6,1002,30,49,27,81,20,69,26,78,12,20,27,81
+2018-06-29,300,25,76,8,13,226,SW,119,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png,Cloudy,0.0,0.0,78,10,6,1003,30,79,27,80,21,69,25,76,11,17,27,80
+2018-06-29,600,26,79,9,15,234,SW,119,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0003_white_cloud.png,Cloudy,0.0,0.0,72,10,6,1003,30,83,28,82,20,69,26,79,12,19,28,82
+2018-06-29,900,30,86,11,17,254,WSW,116,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png,Partly cloudy,0.0,0.0,55,10,6,1003,30,47,32,90,20,68,30,86,12,20,32,90
+2018-06-29,1200,32,90,11,18,252,WSW,116,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png,Partly cloudy,0.0,0.0,47,10,6,1001,30,33,35,94,19,67,32,90,13,20,35,94
+2018-06-29,1500,32,89,8,12,250,WSW,116,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png,Partly cloudy,0.0,0.0,51,10,6,1000,30,46,35,94,20,69,32,89,10,17,35,94
+2018-06-29,1800,30,87,7,11,267,W,116,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png,Partly cloudy,0.0,0.0,56,10,6,1002,30,44,33,91,20,69,30,87,11,18,33,91
+2018-06-29,2100,27,81,6,10,279,W,116,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png,Partly cloudy,0.0,0.0,70,10,6,1004,30,59,29,85,21,70,27,81,9,14,29,85
+2018-06-30,33,92,25,77,05:51 AM,07:12 PM,08:54 PM,07:27 AM,Waxing Gibbous,78
+2018-06-30,0,27,80,6,10,262,W,119,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png,Cloudy,0.0,0.0,71,10,6,1004,30,70,29,84,21,70,27,80,9,14,29,84
+2018-06-30,300,25,77,5,9,241,WSW,116,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png,Partly cloudy,0.0,0.0,77,10,6,1004,30,48,27,81,21,69,25,77,7,12,27,81
+2018-06-30,600,27,81,9,15,226,SW,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0001_sunny.png,Sunny,0.0,0.0,65,10,6,1006,30,24,29,85,20,68,27,81,11,17,29,85
+2018-06-30,900,32,89,8,13,249,WSW,116,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png,Partly cloudy,0.0,0.0,46,10,6,1005,30,44,34,93,19,66,32,89,10,15,34,93
+2018-06-30,1200,33,92,8,12,249,WSW,113,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0001_sunny.png,Sunny,0.0,0.0,41,10,6,1003,30,22,35,95,18,65,33,92,9,14,35,95
+2018-06-30,1500,33,92,6,9,250,WSW,116,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png,Partly cloudy,0.0,0.0,43,10,6,1002,30,44,35,96,19,66,33,92,8,12,35,96
+2018-06-30,1800,31,89,6,10,259,WSW,119,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0003_white_cloud.png,Cloudy,0.1,0.0,50,10,6,1003,30,67,34,93,20,68,31,89,8,13,34,93
+2018-06-30,2100,28,82,8,13,289,WNW,116,http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png,Partly cloudy,0.0,0.0,69,10,6,1005,30,44,30,86,21,71,28,82,12,19,30,86
